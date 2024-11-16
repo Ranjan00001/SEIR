@@ -99,4 +99,4 @@ if __name__ == '__main__':
 	c = getURL(URL)
 	print("Title: ", a, "\n")
 	print("Extracted links are: ", c, "\n")
-	print("Body: ", b)
+	
